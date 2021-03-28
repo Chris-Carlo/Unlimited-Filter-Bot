@@ -26,7 +26,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
 
-## An advanced Filter Bot with nearly unlimitted filters!
+## An advanced Filter Bot with nearly unlimited filters!
 
 
 ### Features
